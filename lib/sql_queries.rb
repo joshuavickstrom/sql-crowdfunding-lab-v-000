@@ -1,7 +1,7 @@
 
 def selects_the_titles_of_all_projects_and_their_pledge_amounts_alphabetized_by_name
 <<-SQL
-  SELECT title, amount
+  SELECT title, SUM(amount)
   FROM projects
   JOIN pledges ON projects.id = pledges.project_id
   ORDER BY title ASC;
