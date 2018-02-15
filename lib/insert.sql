@@ -1,0 +1,10 @@
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (P1, "Environmental", 200000, "May 1st 2017", "May 1st 2020");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (P1, "Environmental", 200000, "May 1st 2017", "May 1st 2020");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (P1, "Environmental", 200000, "May 1st 2017", "May 1st 2020");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (P1, "Environmental", 200000, "May 1st 2017", "May 1st 2020");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (P1, "Environmental", 200000, "May 1st 2017", "May 1st 2020");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (P1, "Environmental", 200000, "May 1st 2017", "May 1st 2020");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (P1, "Environmental", 200000, "May 1st 2017", "May 1st 2020");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (P1, "Environmental", 200000, "May 1st 2017", "May 1st 2020");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (P1, "Environmental", 200000, "May 1st 2017", "May 1st 2020");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (P1, "Environmental", 200000, "May 1st 2017", "May 1st 2020");
