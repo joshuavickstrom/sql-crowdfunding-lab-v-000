@@ -3,7 +3,7 @@ def selects_the_titles_of_all_projects_and_their_pledge_amounts_alphabetized_by_
 <<-SQL
   SELECT title, amount
   FROM projects
-  LEFT OUTER JOIN pledges ON projects.id = pledges.project_id
+  JOIN pledges ON projects.id = pledges.project_id
   ORDER BY title ASC;
 SQL
 end
