@@ -8,3 +8,24 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (P8, "Personal", 500, "May 1st 2017", "May 1st 2020");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (P9, "Environmental", 50000, "May 1st 2017", "May 1st 2020");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES (P10, "Government", 200000000, "May 1st 2017", "May 1st 2020");
+
+INSERT INTO users (name, age) VALUES ("Becky", 21);
+INSERT INTO users (name, age) VALUES ("Sally", 45);
+INSERT INTO users (name, age) VALUES ("John", 66);
+INSERT INTO users (name, age) VALUES ("Sandra", 76);
+INSERT INTO users (name, age) VALUES ("David", 35);
+INSERT INTO users (name, age) VALUES ("Avi", 44);
+INSERT INTO users (name, age) VALUES ("Doug", 56);
+INSERT INTO users (name, age) VALUES ("Sharon", 63);
+INSERT INTO users (name, age) VALUES ("Kelly", 25);
+INSERT INTO users (name, age) VALUES ("Rachel", 31);
+INSERT INTO users (name, age) VALUES ("Melina", 36);
+INSERT INTO users (name, age) VALUES ("Silvia", 33);
+INSERT INTO users (name, age) VALUES ("Mike", 24);
+INSERT INTO users (name, age) VALUES ("George", 18);
+INSERT INTO users (name, age) VALUES ("Kyle", 50);
+INSERT INTO users (name, age) VALUES ("Blanche", 88);
+INSERT INTO users (name, age) VALUES ("Sarah", 34);
+INSERT INTO users (name, age) VALUES ("Francois", 30);
+INSERT INTO users (name, age) VALUES ("Jose", 55);
+  INSERT INTO users (name, age) VALUES ("Jeremy", 39);
